@@ -43,6 +43,6 @@ public class Balanced {
             System.out.println( "algo1( \"" + args[ i ] + "\" ) -> " + algo1( args[ i ] ) );
         }
         System.out.println("hi");
-        System.out.println("HELLO");
+        System.out.println("WASSAP");
     }
 }
